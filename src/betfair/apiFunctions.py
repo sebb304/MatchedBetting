@@ -1,7 +1,6 @@
 import requests  
 import json
 from datetime import datetime, timezone
-from pprint import pprint
 
 USERNAME = ""
 PASSWORD = ""
